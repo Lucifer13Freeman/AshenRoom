@@ -1,6 +1,6 @@
 # AshenRoom
 
-A little fullstack project on Django
+A little fullstack social network project on Django
 
 # Instruction and steps:
 
